@@ -21,9 +21,9 @@ I am a Senior Software Engineer with over 8 years of development experience.
 - **Backend Technologies:** Node.js (TypeScript), Express.js, PHP (Laravel Framework)
 - **Database Management:** MySQL, PostgreSQL, MongoDB, Redis
 - **Payment Gateway Integration:** Stripe, Razorpay
-- **Messaging & Streaming Systems:** Apache Kafka, RabbitMQ, BullMQ, Zookeeper
+- **Messaging & Streaming Systems:** Apache Kafka, RabbitMQ, BullMQ
 - **Blockchain Development:** Crypto Wallet Development, Third-Party Blockchain API Integration
-- **Cloud & DevOps:** AWS (Lambda, Secrets Manager, KMS), Docker
+- **Cloud & DevOps:** AWS (Lambda, Secrets Manager, KMS), Docker, Zookeeper
 - **Version Control & Collaboration:** Git, GitHub, GitLab
 
 What I love about my job?
