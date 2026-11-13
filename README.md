@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a Senior Software Engineer with over 8 years of development experience.
 
-**Technical Skills**
+**Technical Skills:**
 - **Backend Technologies:** Node.js (TypeScript), Express.js, PHP (Laravel Framework)
 - **Database Management:** MySQL, PostgreSQL, MongoDB, Redis
 - **Payment Gateway Integration:** Stripe, Razorpay
