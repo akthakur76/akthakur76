@@ -26,5 +26,5 @@ I am a Senior Software Engineer with over 8 years of development experience.
 - **Cloud & DevOps:** AWS (Lambda, Secrets Manager, KMS), Docker, Zookeeper
 - **Version Control & Collaboration:** Git, GitHub, GitLab
 
-**What I love about my job?**
+### **What I love about my job?**
 As a Senior Software Engineer, I love solving complex problems and building scalable, efficient systems that power real-world applications. I enjoy working behind the scenes to ensure performance, security, and reliability — and seeing how my work directly impacts users, even if it's not always visible.
